@@ -2,3 +2,6 @@
 
 def function1():
     return True
+
+def function2():
+    return 2
