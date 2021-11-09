@@ -8,3 +8,6 @@ def function2():
 
 def function3():
     return 3
+
+def function4():
+    return 4
