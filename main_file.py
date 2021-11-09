@@ -10,3 +10,6 @@ def (hello):
 
 def function():
     return 0
+
+def function():
+    return 0
