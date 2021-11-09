@@ -19,3 +19,6 @@ def function():
 
 def funtion3():
     return 3
+
+def function4():
+    return 4
