@@ -4,6 +4,9 @@
 
  # further development on main
 
- # this is now a complicated change in /new_branch
- def (hello):
-     pass
+# this is now a complicated change in /new_branch
+def (hello):
+    pass
+
+def function():
+    return 0
