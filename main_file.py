@@ -12,4 +12,7 @@ def function():
     return 0
 
 def function():
-    return 0
+    return 2
+
+def function():
+    return 2
